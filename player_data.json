@@ -1,0 +1,13 @@
+{
+  "club": "Spartak Moscow",
+  "founded_year": 1922,
+  "stadium": "Lukoil Arena",
+  "is_active_in_league": true,
+  "top_player": {
+    "first_name": "Pablo",
+    "last_name": "Solari",
+    "position": "Winger",
+    "number": 7,
+    "skills": ["Pace", "Dribbling", "Agility", "Key Passes"]
+  }
+}
